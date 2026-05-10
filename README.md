@@ -53,6 +53,3 @@ Para este análisis de seguridad web3 defensiva, he utilizado:
 *   **Visual Studio Code:** Para el análisis manual de código fuente.
 *   **Solidity Visual Developer:** Extensión para visualizar la visibilidad y flujo de las funciones.
 *   **Análisis de Lógica:** Simulación de estados para verificar la robustez del contrato.
-
----
-**¿Buscas fortalecer la seguridad de tu protocolo?** Como analista, ayudo a identificar riesgos antes de que se conviertan en pérdidas.
